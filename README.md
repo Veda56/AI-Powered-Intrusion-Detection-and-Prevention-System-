@@ -1,9 +1,8 @@
-# AATIS - Adaptive AI Threat Intelligence System
+# AIDPS – AI-Powered Intrusion Detection and Prevention System
 
-A self-evolving security system that detects and responds to cyber threats using artificial intelligence.
+An AI-driven intrusion detection and prevention system that monitors network traffic in real time, detects threats using machine learning, and automatically responds to cyber threats.
 
 ## Features
-
 - 🛡️ Real-time network monitoring
 - 🤖 AI-powered threat detection
 - 📊 Interactive terminal dashboard
@@ -11,6 +10,9 @@ A self-evolving security system that detects and responds to cyber threats using
 - 🔄 Adaptive learning capabilities
 
 ## Quick Start
+1. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the system: `python src/main.py`
+## Run the system:
+ python src/main.py
